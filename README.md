@@ -1,5 +1,5 @@
 # Apple Emoji on GNOME 49
-This is guide how to download Apple Emoji on GNOME 49
+This is a guide how to download Apple Emoji on GNOME 49
 
 ### 1. Install Apple Emoji Font
 You can install any. I prefer to use [Apple Emoji for Linux](https://github.com/samuelngs/apple-emoji-linux).
